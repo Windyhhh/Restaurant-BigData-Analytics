@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍔 Restaurant-BigData-Analytics
+# 餐饮大数据分析 | Restaurant-BigData-Analytics
 
 ### Enterprise big-data platform for restaurant operations.
 
